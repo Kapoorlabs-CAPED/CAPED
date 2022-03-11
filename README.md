@@ -1,1 +1,1 @@
-CAPED
+CAPED AI is a collection workflows that use deep learning and conventional computer vision based tools to address a multitude of biological and biotechnological related chalenges faced by researchers today.
