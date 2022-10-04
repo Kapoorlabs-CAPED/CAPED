@@ -22,8 +22,9 @@ setup(
     long_description_content_type='text/markdown',
     install_requires=[
         "oneat",
-        "oneat-augmentations",
         "viz-oneat",
+        "caped-ai-metrics",
+        "caped-ai-augmentations",
        
     ],
     packages = find_packages(),
