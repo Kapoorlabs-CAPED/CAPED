@@ -3,6 +3,7 @@ setup.py
 caped_ai/__init__.py
 caped_ai/_version.py
 caped_ai/oneat.py
+caped_ai/vollseg.py
 caped_ai.egg-info/PKG-INFO
 caped_ai.egg-info/SOURCES.txt
 caped_ai.egg-info/dependency_links.txt

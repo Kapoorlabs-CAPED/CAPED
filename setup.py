@@ -22,6 +22,7 @@ setup(
     long_description_content_type='text/markdown',
     install_requires=[
         "oneat",
+        "hydra-core",
         "viz-oneat",
         "caped-ai-metrics",
         "caped-ai-augmentations",
