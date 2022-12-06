@@ -26,6 +26,7 @@ setup(
         "viz-oneat",
         "caped-ai-metrics",
         "caped-ai-augmentations",
+        "napatrackmater",
        
     ],
     packages = find_packages(),
