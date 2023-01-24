@@ -25,8 +25,11 @@ setup(
         "hydra-core",
         "viz-oneat",
         "caped-ai-metrics",
+        "caped-ai-tabulour",
         "caped-ai-augmentations",
         "napatrackmater",
+        "rdp",
+
        
     ],
     packages = find_packages(),

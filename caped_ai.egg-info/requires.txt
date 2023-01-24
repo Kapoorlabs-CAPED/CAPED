@@ -3,3 +3,4 @@ hydra-core
 viz-oneat
 caped-ai-metrics
 caped-ai-augmentations
+napatrackmater
