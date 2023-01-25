@@ -2,5 +2,7 @@ oneat
 hydra-core
 viz-oneat
 caped-ai-metrics
+caped-ai-tabulour
 caped-ai-augmentations
 napatrackmater
+rdp

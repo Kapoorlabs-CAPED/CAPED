@@ -5,6 +5,8 @@ Summary: Content aware prediction and detection based on artificial intelligence
 Home-page: https://github.com/Kapoorlabs-CAPED/CAPED-AI/
 Author: Varun Kapoor
 Author-email: varun.kapoor@kapoorlabs.org
+License: UNKNOWN
+Platform: UNKNOWN
 Classifier: Development Status :: 3 - Alpha
 Classifier: Natural Language :: English
 Classifier: License :: OSI Approved :: MIT License
@@ -149,4 +151,6 @@ For answers to common questions about this code of conduct, see the FAQ at
 [Mozilla CoC]: https://github.com/mozilla/diversity
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
+
+
 

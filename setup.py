@@ -25,6 +25,7 @@ setup(
         "hydra-core",
         "viz-oneat",
         "caped-ai-metrics",
+        "caped-ai-mtrack",
         "caped-ai-tabulour",
         "caped-ai-augmentations",
         "napatrackmater",
