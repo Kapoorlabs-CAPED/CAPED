@@ -23,7 +23,6 @@ setup(
     install_requires=[
         "oneat",
         "hydra-core",
-        "viz-oneat",
         "caped-ai-metrics",
         "caped-ai-mtrack",
         "caped-ai-tabulour",
