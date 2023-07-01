@@ -1,6 +1,6 @@
 CAPED AI is a collection of workflows that use deep learning and conventional computer vision-based tools to address a multitude of biological and biotechnological-related challenges faced by researchers today.
 
-[![CAPED-AI's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapoorlab&organization=Kapoorlabs-paris&organization=Kapoorlabs-CAPED&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 # Contributor Covenant Code of Conduct
 
